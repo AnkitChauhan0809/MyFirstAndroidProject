@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">About Us</string>
+    <string name="topheader">headerView</string>
+    <string name="header">18SOECE11006</string>
+    <string name="FirstName">Ankit</string>
+    <string name="MiddleName">Bharatbhai</string>
+    <string name="LastName">Chauhan</string>
+    <string name="Email">achauhan645@rku.ac.in</string>
+    <string name="Password">................</string>
+    <string name="Gender">Male</string>
+    <string name="City">Botad</string>
+</resources>
